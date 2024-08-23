@@ -1,0 +1,1 @@
+# digicampus-sisu-script
